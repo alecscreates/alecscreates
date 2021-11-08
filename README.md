@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alecscreates
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Python, Javascrip, and a course on Strategies for Climate Change.
+- 🌱 I’m currently learning Python, Javascript, and a course at Uni on Strategies for Climate Change.
 - 💞️ I’m looking to collaborate on projects .that help others and enhance my skills.
 - 📫 How to reach me - Get in touch via email or via GitHub
 
